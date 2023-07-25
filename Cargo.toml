@@ -1,0 +1,9 @@
+[package]
+name = "nudgehook"
+version = "0.1.0"
+edition = "2021"
+
+default-run = "server"
+
+[dependencies]
+ring = "0.16.20"
